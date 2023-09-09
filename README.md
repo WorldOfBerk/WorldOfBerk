@@ -15,6 +15,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=worldofberk&show_icons=true&locale=en&layout=compact&theme=transparent" alt="worldofberk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=worldofberk&show_icons=true&theme=transparent" alt="worldofberk" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=worldofberk&show_icons=true&theme=transparent&include_all_commits=true" alt="worldofberk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=worldofberk&theme=transparent" alt="worldofberk" /></p>
