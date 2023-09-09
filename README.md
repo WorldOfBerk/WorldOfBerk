@@ -17,4 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=worldofberk&show_icons=true&theme=transparent" alt="worldofberk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=worldofberk&" alt="worldofberk" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=worldofberk&theme=transparent" alt="worldofberk" /></p>
