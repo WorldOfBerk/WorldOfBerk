@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **C++.**
 
+- 💬 Ask me about **3D Modelling.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/barış-berk-şengül-84a320260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barış berk şengül" height="30" width="40" /></a>
