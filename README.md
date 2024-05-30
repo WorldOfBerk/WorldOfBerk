@@ -12,7 +12,6 @@
 <a href="https://linkedin.com/in/barış-berk-şengül-84a320260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barış berk şengül" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 <h4>Programming Languages:</h4>
 <p>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
