@@ -13,6 +13,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<h4>Programming Languages:</h4>
 <p>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
@@ -22,6 +23,9 @@
         </a>
         <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
+        </a>
+        <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
         </a>
         <a href="https://golang.org" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" />
@@ -59,16 +63,6 @@
         </a>
     </p>
 
-<h3>Graphic and Design Tools:</h3>
-    <p>
-        <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-            <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40" />
-        </a>
-        <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
-        </a>
-    </p>
-
 <h4>Databases:</h4>
     <p>
         <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
@@ -79,22 +73,47 @@
         </a>
     </p>
 
-<h4>Development Tools and Environments:</h4>
+<h4>Graphic and Design Tools:</h4>
     <p>
+        <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+            <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40" />
+        </a>
+        <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
+        </a>
+    </p>
+
+<h4>Game Engines:</h4>
+<p>
+        <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+                <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
+        </a> 
+        <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
+                <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> 
+        </a>
+</p>
+<h4>GUI:</h4>
+<p>
+        <a href="https://www.gtk.org/" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40" />
+        </a>
+<h4>Version Control:</h4>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+        </a>
+</p>
+<h4>Other:</h4>
+<p>
         <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
             <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
         </a>
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
         </a>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-        </a>
-        <a href="https://www.gtk.org/" target="_blank" rel="noreferrer">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40" />
-        </a>
-    </p>
-
+        <a href="https://nodered.org/" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Node-red-icon.png" alt="node-red" width="40" height="40" />
+        </a>        
+</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=worldofberk&show_icons=true&hide=ShaderLab,hlsl&locale=en&layout=compact&theme=transparent" alt="worldofberk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=worldofberk&show_icons=true&theme=transparent" alt="worldofberk" /></p>
