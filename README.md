@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Barış!</h1>
 <h3 align="center">I'm a computer engineer student who loves to build the future.</h3>
 
-- 🔭 I’m currently working on **multiplayer games.**
+- 🔭 I’m currently working on **embedded systems** and **software architecture design**.
 
 - 🌱 I’m currently learning **C++.**
 
