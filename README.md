@@ -11,6 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/barış-berk-şengül-84a320260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barış berk şengül" height="30" width="40" /></a>
         <a href="https://kaggle.com/barberkengl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="barberkengl" height="30" width="40" /></a>
+        <a href="https://medium.com/@sengulbarisberk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sengulbarisberk" height="30" width="40" /></a>
 </p>
 
 <h4>Programming Languages:</h4>
