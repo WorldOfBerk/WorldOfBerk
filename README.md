@@ -118,7 +118,7 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Node-red-icon.png" alt="node-red" width="40" height="40" />
         </a>        
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=worldofberk&show_icons=true&hide=ShaderLab,hlsl&locale=en&layout=compact&theme=transparent" alt="worldofberk" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=worldofberk&show_icons=true&hide=Jupyter%20Notebook,ShaderLab,hlsl&locale=en&layout=compact&theme=transparent" alt="worldofberk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=worldofberk&show_icons=true&theme=transparent" alt="worldofberk" /></p>
 
