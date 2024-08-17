@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Barış!</h1>
 <h3 align="center">I'm a computer engineer student who loves to build the future.</h3>
 
-- 🔭 I’m currently working on **embedded systems** and **software architecture design**.
+- 🔭 I am currently working on **deep learning, data science, image processing, object detection, large language models (LLM), and natural language processing (NLP)**.
 
-- 🌱 I’m currently learning **C++.**
+- 🌱 I’m currently learning **Neural Networks, LLM, Object Detection**.
+
+- 📄 I have experience and projects in **Frontend and Backend web development, mobile development, data science, embedded systems, IoT, robotics, game development, 3D modeling, and computer graphics.**
 
 - 💬 Ask me about **3D Modelling.**
 
