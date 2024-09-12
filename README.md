@@ -40,12 +40,10 @@
         <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
         </a>
-    </p>
-    <p> 
         <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
         </a> 
-    </p>
+</p>
 
 <h4>Web Technologies:</h4>
     <p>
