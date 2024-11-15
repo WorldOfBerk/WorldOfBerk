@@ -15,6 +15,7 @@
         <a href="https://kaggle.com/barberkengl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="barberkengl" height="30" width="40" /></a>
         <a href="https://medium.com/@sengulbarisberk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sengulbarisberk" height="30" width="40" /></a>
         <a href="https://bberk.itch.io/" target="blank"><img align="center" src="https://cdn2.steamgriddb.com/icon_thumb/8b33ab221257b074d1d967042ad1d9d0.png" alt="bberk" height="30" width="30" /></a>
+        <a href="https://leetcode.com/u/bberksengul/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="barış berk şengül" height="30" width="30" /></a>
 </p>
 
 <h4>Programming Languages:</h4>
